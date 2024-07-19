@@ -14,6 +14,7 @@ function exibirMensagemNoConsole(){
     console.log('O botão foi clicado');
 }
 
+
 // Crie uma função que exiba um alerta com a mensagem: Eu amo JS, sempre que o botão Alerta for pressionado.
 // No index html:
 <button onclick="exibirAlerta()" class="button">Alert</button>
